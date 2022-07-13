@@ -1,0 +1,2 @@
+# CalculaEsperanzaDeVida
+CalculaEVAN es un programa le permite al usario saber si se encuentra por encima o debajo de la Esperanza de vida al nacer (EVAN) para su país de nacimiento, su edad actual y género. Pide los datos del usuario, tales como nombre, edad, sexo y país de nacimiento y devuelve la diferencia entre la EVAN y la edad de la persona en años e imprime en pantalla cuantos años le quedan por vivir en caso que su edad sea inferior a la EVAN o en caso contrario indica cuantos años más ha vivido que el promedio para su grupo etario y país de nacimiento.
